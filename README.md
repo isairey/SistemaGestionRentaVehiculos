@@ -315,39 +315,7 @@ Main.java
 
 ---
 
-# 📸 Vista previa
 
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🚗 Dashboard principal
-![Dashboard](https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1200&auto=format&fit=crop)
-
-### 🔐 Inicio de sesión
-![Login](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200&auto=format&fit=crop)
-
-### 🚘 Gestión de vehículos
-![Cars](https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1200&auto=format&fit=crop)
-
-### 👥 Gestión de clientes
-![Users](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop)
-
-### 📅 Sistema de reservas
-![Booking](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop)
-
-### 📊 Panel administrativo
-![Admin](https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop)
-
-### 💳 Gestión de pagos
-![Payments](https://images.unsplash.com/photo-1556740749-887f6717d7e4?q=80&w=1200&auto=format&fit=crop)
-
-### 🛠️ Administración de mantenimiento
-![Maintenance](https://images.unsplash.com/photo-1486006920555-c77dcf18193c?q=80&w=1200&auto=format&fit=crop)
-
-</div>
-
----
 
 # 🧠 Objetivos del proyecto
 
