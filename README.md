@@ -190,7 +190,7 @@ Este módulo funciona como administrador principal del sistema.
 # 📂 Estructura del proyecto
 
 ```bash
-CarRentalManagementSystem/
+SistemaGestionRentaVehiculos/
 │
 ├── src/                      # Código fuente Java
 ├── controllers/              # Controladores JavaFX
@@ -223,7 +223,7 @@ CarRentalManagementSystem/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/CarRentalManagementSystem.git
+git clone https://github.com/isairey/SistemaGestionRentaVehiculos.git
 ```
 
 ---
